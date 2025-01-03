@@ -9,3 +9,5 @@ This is a line containing the word "credential"
 This is a line containing a url https://google.com
 
 Just another line.
+
+And another line.
