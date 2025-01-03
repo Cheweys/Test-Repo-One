@@ -1,2 +1,2 @@
 This is a test. This is only a test.
-This file has the word password in it :)
+This file has the word passwd in it :)
